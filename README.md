@@ -1,16 +1,59 @@
-# React + Vite
+# 🎓 Student Registration Form – React + CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo link: https://studentregistrationform-ten.vercel.app/
 
-Currently, two official plugins are available:
+This is a **fully responsive Student Registration Form** built using **React (Vite) and pure CSS** 
+The UI is designed to be modern, clean, and attractive with a gradient background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🖥️ Fully responsive (Mobile → Tablet → Laptop → PC)
+- 🎨 Animated gradient background
+- 📋 Form validation with error messages
+- 🔄 Reset (Clear) and Submit functionality
+- ⚛ Built using React functional components
+- ❌ No Tailwind / Bootstrap – only pure CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Project Structure
+
+student-registration-form/
+│
+├── public/
+│
+├── src/
+│ ├── components/
+│ │ ├── StudentRegistrationForm.jsx
+│ │ └── StudentForm.css
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── index.css
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+#How to Test
+
+Open the form
+
+Fill in all required fields
+
+Click Submit
+
+Success message will be displayed
+
+Open console to check submitted data
+
+Click Clear to reset the form
+
+Scrrenshot:
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/1b390ffe-87b8-4529-9321-e7ad95b5d955" />
+
+#Author
+Yadneshwar Thorat
