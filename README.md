@@ -20,7 +20,6 @@ The UI is designed to be modern, clean, and attractive with a gradient backgroun
 
 ## 📁 Project Structure
 
-'''
 student-registration-form/
 │
 ├── public/
@@ -32,13 +31,13 @@ student-registration-form/
 │   │
 │   ├── App.jsx
 │   ├── main.jsx
-│   ├── index.css
+│   └── index.css
 │
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
-'''
+
 
 #How to Test
 
