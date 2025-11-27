@@ -20,23 +20,25 @@ The UI is designed to be modern, clean, and attractive with a gradient backgroun
 
 ## 📁 Project Structure
 
+'''
 student-registration-form/
 │
 ├── public/
 │
 ├── src/
-│ ├── components/
-│ │ ├── StudentRegistrationForm.jsx
-│ │ └── StudentForm.css
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ ├── index.css
+│   ├── components/
+│   │   ├── StudentRegistrationForm.jsx
+│   │   └── StudentForm.css
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
 │
 ├── index.html
 ├── package.json
 ├── vite.config.js
 └── README.md
+'''
 
 #How to Test
 
